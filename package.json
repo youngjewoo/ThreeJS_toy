@@ -1,0 +1,25 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngjewoo/enduro.git"
+  },
+  "author": "youngje_woo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/youngjewoo/enduro/issues"
+  },
+  "homepage": "https://github.com/youngjewoo/enduro#readme",
+  "dependencies": {
+    "@react-three/fiber": "^7.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "three": "^0.129.0"
+  }
+}
